@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Newlogin</string>
+    <string name="log">Log in to your Account</string>
+    <string name="name">Phone Number</string>
+    <string name="pas">Passward</string>
+    <string name="log1">Log In</string>
+    <string name="fac">Facebook</string>
+    <string name="st1">Forget passward?</string>
+    <string name="st2">create new account</string>
+</resources>
